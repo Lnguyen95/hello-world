@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 Module 1 Introduction
 
 Greeting everyone,
